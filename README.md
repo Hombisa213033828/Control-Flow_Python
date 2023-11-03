@@ -1,7 +1,4 @@
 # Control-Flow_Python
-
-[13:04] Katlego Nnadi
-# Python-Control-Flow
  
 ## Table of Contents
  
